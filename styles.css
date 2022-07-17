@@ -1,0 +1,22 @@
+
+body{
+    background-color: rgb(43, 42, 41);
+    font-family: 'Mulish', sans-serif;
+    color:#ccc;
+    display:flex;
+    justify-content:center; /*AJUSTA LOS ELEMENTOS AL CENTRO DE LA PANTALLA */
+    align-items:center;
+    height: 100vh;
+}
+
+#circle{
+    background-color: rgb(77, 76, 75);
+    width: 330px;
+    height: 330px;
+    border-radius: 160px;
+}
+
+form {
+    display: block;
+    margin-top: 55px;
+}
