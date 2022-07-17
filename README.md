@@ -1,3 +1,3 @@
 # login
-A login page designed in CSS and JS
+A login page designed in HTML, CSS and JS
 https://theoldboyproject.github.io/login/
